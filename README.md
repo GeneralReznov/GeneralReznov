@@ -106,7 +106,6 @@
 ### 📊 [DatavizAI – Survey Data Analysis Platform](https://datavizai.onrender.com)
 <p>
   <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Repo-Private-red?style=flat-square" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
@@ -122,7 +121,6 @@
 ### 🏥 [IllnessInsight – AI Health Prediction Platform](https://illnessinsight.onrender.com)
 <p>
   <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Repo-Private-red?style=flat-square" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
