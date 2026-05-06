@@ -94,32 +94,44 @@
 
 <div align="center">
 
-[![DatavizAI](https://github-readme-stats.vercel.app/api/pin/?username=GeneralReznov&repo=DatavizAI&theme=radical&hide_border=true&bg_color=00000000)](https://datavizai.onrender.com)
-[![IllnessInsight](https://github-readme-stats.vercel.app/api/pin/?username=GeneralReznov&repo=IllnessInsight&theme=radical&hide_border=true&bg_color=00000000)](https://illnessinsight.onrender.com)
+<a href="https://datavizai.onrender.com" target="_blank">
+  <img src="https://img.shields.io/badge/📊_DatavizAI-Live_Demo-334EF7?style=for-the-badge&labelColor=000000" alt="DatavizAI" />
+</a>
+<a href="https://illnessinsight.onrender.com" target="_blank">
+  <img src="https://img.shields.io/badge/🏥_IllnessInsight-Live_Demo-46E3B7?style=for-the-badge&labelColor=000000" alt="IllnessInsight" />
+</a>
 
 </div>
 
 ### 📊 [DatavizAI – Survey Data Analysis Platform](https://datavizai.onrender.com)
 <p>
   <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Repo-Private-red?style=flat-square" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white" />
 </p>
 
-> Full-stack platform for dataset uploads, automated analysis & AI-powered insights.
+> Full-stack platform for dataset uploads, automated analysis & AI-powered insights powered by Gemini API for conversational analytics.
+
+**🔗 Live:** [datavizai.onrender.com](https://datavizai.onrender.com)
+
+---
 
 ### 🏥 [IllnessInsight – AI Health Prediction Platform](https://illnessinsight.onrender.com)
 <p>
   <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Repo-Private-red?style=flat-square" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
-> AI health platform for disease risk prediction and mental health screening using ML.
+> AI health platform for disease risk prediction and mental health screening using ML models with Gemini-powered conversational health assistance.
+
+**🔗 Live:** [illnessinsight.onrender.com](https://illnessinsight.onrender.com)
 
 ---
 
