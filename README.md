@@ -161,27 +161,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GeneralReznov&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&include_all_commits=true&count_private=true" alt="GitHub Stats" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GeneralReznov&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeneralReznov&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GeneralReznov&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 📊 Activity Graph
 
 <p align="center">
