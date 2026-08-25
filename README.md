@@ -26,7 +26,7 @@
 ## 👨🏻‍💻 About Me
 
 - 🎓 B.Tech CSE student at **Guru Gobind Singh Indraprastha University** (GPA: 9.375/10.0)
-- 🔭 Currently building **AI-powered web platforms** with Python, Flask & Gemini API
+- 🔭 Currently building **AI-powered web platforms** with Python, FastAPI & Flask
 - 🧠 Passionate about **Machine Learning, Computer Vision & Backend Development**
 - 🌱 Strengthening my skills in **Data Structures & Algorithms**
 - 💼 Previously interned at **UptoSkills** and **Agnirva**
