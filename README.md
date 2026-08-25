@@ -25,7 +25,7 @@
 
 ## 👨🏻‍💻 About Me
 
-- 🎓 B.Tech CSE student at **Guru Gobind Singh Indraprastha University** (GPA: 9.645/10.0)
+- 🎓 B.Tech CSE student at **Guru Gobind Singh Indraprastha University** (GPA: 9.375/10.0)
 - 🔭 Currently building **AI-powered web platforms** with Python, Flask & Gemini API
 - 🧠 Passionate about **Machine Learning, Computer Vision & Backend Development**
 - 🌱 Strengthening my skills in **Data Structures & Algorithms**
